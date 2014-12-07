@@ -20,6 +20,5 @@ def quickSort(a,start,end):
         temp = a[end]
         a[end] = a[swapIndex]
         a[swapIndex] = temp
-        printArray(a," ")
         quickSort(a,start,swapIndex - 1) 
         quickSort(a,swapIndex + 1,end)
