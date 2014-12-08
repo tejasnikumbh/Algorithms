@@ -20,7 +20,7 @@
     Mergesort .  This reduces the time complexity to count the no of
     inversions and does it in O(NlogN) time
 '''
-def countInversions(a):
+def countInversionsAndSort(a):
     inversions = sort(a,0,len(a)-1)
     return inversions
 
