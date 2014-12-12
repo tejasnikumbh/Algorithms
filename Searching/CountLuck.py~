@@ -6,10 +6,10 @@ import sys
     must have a unique position. If not present returns [-1, -1]. If
     multiple occurences present, returns the first one
 '''    
-def findIndex(grid,charElem):    
+def findIndex(grid,elem):    
     for i in range(len(grid)):
         for j in range(len(grid[i])):
-            if(grid[i][j] == charElem):
+            if(grid[i][j] == elem):
                 return [i,j]
     return [-1,-1]
 

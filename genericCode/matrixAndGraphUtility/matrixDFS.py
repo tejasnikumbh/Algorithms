@@ -68,8 +68,7 @@ def dfsPathSearch(grid,
                   startIndex,
                   goalIndex,
                   pathSoFar,
-                  visitedNodes,
-                  wandUse):
+                  visitedNodes):
     # Marking the current node as explored
     visitedNodes.add(startIndex)
     # Base case of recursion in case we want to stop 
@@ -91,13 +90,10 @@ def dfsPathSearch(grid,
                                        point,
                                        goalIndex,
                                        pathSoFar,
-                                       visitedNodes,
-                                       wandUse)  
+                                       visitedNodes)  
             if(pathExists):
                 # If there were more than one choices here, increment
                 # wand use by one
-                if(len(sValid) > 1):
-                    wandUse = wandUse.append(1)
                 pathSoFar.append(point)
                 return True
         # Return false if no point in valid surroundings
@@ -137,19 +133,14 @@ if __name__ == "__main__":
         goalIndex = tuple(findIndex(grid,'*'))
         visitedNodes = set()
         path = []
-        wandUse = []
         dfsPathSearch(grid,
                       startIndex,
                       goalIndex,
                       path,
-                      visitedNodes,
-                      wandUse)
+                      visitedNodes)
         path.append(startIndex)
         path.reverse()
-        # Wand Use gives us the number of wand uses
-        if(sum(wandUse) == k):
-            print "Impressed"
-        else:
-            print "Oops!"
+        # Prints the path in order from start to goal
+        print path
         
         
