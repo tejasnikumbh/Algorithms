@@ -6,7 +6,7 @@ def printGrid(grid,r,c):
     for i in range(r):
         curLine = ""
         for j in range(c):
-            curLine += grid[i][j] + " "
+            curLine += str(grid[i][j]) + " "
         curLine.rstrip()
         gridStr += curLine + "\n"
     gridStr.rstrip()
