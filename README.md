@@ -68,6 +68,10 @@ Searching
 
 Strings
 --------
-- Pangram
-- Palindrome Index
-- 
+- Anagram
+- BiggerIsGreater
+-	CommonChild.
+-	GameOfThrones_II
+-	GemStones
+-	PalindromeIndex
+-	Pangram
