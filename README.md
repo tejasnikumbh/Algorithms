@@ -6,7 +6,27 @@ Current rank on the website : 299 (17/12/2014)
 * Warmup
   - Contains Solutions to ALL the Warmup Track problems on Hackerrank. 
 * Arrays and Sorting
-  - Contains Solutions to Most(ALL but 4) problems on Hackerrank  
+   - AlmostSorted
+	 - BusStation
+	 - CavityMap
+	 - Cipher
+	 - CutTheSticks
+	 - CuttingBoards
+	 - FindTheMedian
+	 - FullCountingSort
+	 - GameOfRotation
+	 - InsertionSortAdvanced
+	 - InsertionSortP2
+	 - MakeItAnagram
+	 - MarkAndToys
+	 - PolarAngles
+	 - QuickSortInPlace
+	 - SansaAndXor
+	 - SherlockAndArray
+	 - SherlockAndPairs
+	 - SherlockAndQueries
+	 - SherlockAndWatson
+	 - TwoArrays 	
 * Searching
   - Track in progress.
 * Strings
