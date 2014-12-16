@@ -2,8 +2,9 @@ Algorithms
 ==========
  - Solutions to problems from the Website Hackerrank.com. Currently exploring the Algorithms Domain.
 
-* Warmup
-  - The repository contains solutions to the following problems from the Hackerrank Warmup track in the algorithms domain. Most of the solutions are in python and some are in Java. [100% Complete]
+Warmup
+--------
+  The repository contains solutions to the following problems from the Hackerrank Warmup track in the algorithms domain. Most of the solutions are in python and some are in Java. [100% Complete]
   	- ACMICPC
 	- AlternatingCharacgters
 	- AngryChildren
