@@ -1,9 +1,9 @@
 Algorithms
 ==========
-Solutions to problems from the Website Hackerrank.com. Currently exploring the Algorithms Domain.
-Current rank on the website : 299 (17/12/2014)
+ - Solutions to problems from the Website Hackerrank.com. Currently exploring the Algorithms Domain.
 
 * Warmup
+  - The repository contains solutions to the following problems from the Hackerrank Warmup track in the algorithms domain. Most of the solutions are in python and some are in Java. [100% Complete]
   	- ACMICPC
 	- AlternatingCharacgters
 	- AngryChildren
