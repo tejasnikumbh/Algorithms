@@ -66,3 +66,8 @@ Searching
 -	Pairs
 -	SimilarPair
 
+Strings
+--------
+- Pangram
+- Palindrome Index
+- 
