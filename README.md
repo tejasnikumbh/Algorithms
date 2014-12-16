@@ -1,6 +1,7 @@
 Algorithms
 ==========
  - Solutions to problems from the Website Hackerrank.com. Currently exploring the Algorithms Domain.
+ - Rank on Website as of December 17, 2014. [ 299 ] 
 
 Warmup
 --------
