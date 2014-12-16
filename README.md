@@ -50,4 +50,19 @@ Arrays and Sorting
 
 Searching
 ----------
-- Track in progress.
+- CircleCity
+-	ClosestNumbers
+-	CoinOnTheTable
+-	CountLuck
+-	CutTheTree
+-	CutTheTree
+-	Encryption
+-	Flowers
+-	GridSearch
+-	IcecreamParlour
+-	LonelyInteger
+-	Median
+-	MissingNumbers
+-	Pairs
+-	SimilarPair
+
