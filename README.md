@@ -76,3 +76,7 @@ Strings
 -	GemStones
 -	PalindromeIndex
 -	Pangram
+
+Probability
+------------
+- Random Number Generator
