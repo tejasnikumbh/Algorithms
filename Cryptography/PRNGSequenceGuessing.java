@@ -4,6 +4,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/*
+ * Simple Brute force algorithms is okay because of the constraints on the
+ * input size. Brute force Algorithm has time complexity of O(10^7)
+ */
 public class Solution {
     
     // Data stream to read the input from
