@@ -84,3 +84,7 @@ Probability
 DynamicProgramming
 -------------------
 - Maximum Sum Subarray
+
+Cryptography
+-------------
+- PRNG Sequence Guessing
