@@ -88,4 +88,5 @@ DynamicProgramming
 Cryptography
 -------------
 - PRNG Sequence Guessing
+- Keyword Transposition Cipher
 - Basic Cryptanalysis
