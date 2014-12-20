@@ -6,8 +6,7 @@ Algorithms
 
 Warmup
 --------
-- ACMICPC
-- AlternatingCharacgters
+- ACMICPC - AlternatingCharacgters
 - AngryChildren
 - ChoclateFeast
 - FillingJars
