@@ -88,3 +88,4 @@ DynamicProgramming
 Cryptography
 -------------
 - PRNG Sequence Guessing
+- Basic Cryptanalysis
