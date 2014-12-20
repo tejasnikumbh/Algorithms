@@ -1,8 +1,8 @@
 Algorithms
-==========
+===========
  - Solutions to problems from the Website Hackerrank.com from *Algorithms Domian*. 
  - The Generic Code and Hacker Cup directories are seperate and contain other stuff
- - Rank on Website as of December 17, 2014. [ 299 ] 
+ - Rank on Website as of December 17, 2014. [ 272 ] 
 
 Warmup
 --------
