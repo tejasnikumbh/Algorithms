@@ -84,7 +84,8 @@ Probability
 DynamicProgramming
 -------------------
 - Maximum Sum Subarray
-- Longest Increasing Subsequence
+- Longest Increasing Subsequence O(NlogN)
+
 
 Cryptography
 -------------
