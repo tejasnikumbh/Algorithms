@@ -81,6 +81,7 @@ Probability
 ------------
 - Random Number Generator
 - Sherlock and Probability
+- B'day Gift
 
 DynamicProgramming
 -------------------
