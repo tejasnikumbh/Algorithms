@@ -84,6 +84,7 @@ Probability
 DynamicProgramming
 -------------------
 - Maximum Sum Subarray
+- Longest Increasing Subsequence
 
 Cryptography
 -------------
