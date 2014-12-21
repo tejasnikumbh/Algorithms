@@ -1,6 +1,6 @@
 '''
     Generates factors of a particular number by iterating through the num
-    upto num / 2 . Efficient approach using prime factor generation. The
+    upto sqrt(num) . Efficient approach using prime factor generation. The
     function reduce if new to you, just computes result of the supplied
     function f (in this case list.__add__) on the first two elements of the
     supplied list, obtains a result and then performs the same function on
