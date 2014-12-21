@@ -80,6 +80,7 @@ Strings
 Probability
 ------------
 - Random Number Generator
+- Sherlock and Probability
 
 DynamicProgramming
 -------------------
