@@ -105,4 +105,4 @@ To-Do List
 - Add DFS and BFS implementation in generic Code
 - Add other searching algos in generic Code
 - Add Data Structure Implementations in generic Code
-  - DS include Heap, Tree, Node, Queue, Stack, Segment Tree
+  - DS include Heap, Tree, Node, Queue, Stack, Segment Tree,Binary Indexed Tree
