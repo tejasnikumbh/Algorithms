@@ -90,6 +90,7 @@ DynamicProgramming
 - Maximum Sum Subarray
 - Longest Increasing Subsequence O(NlogN)
 - Coin Change
+- Longest Common Subsequence
 
 
 Cryptography
