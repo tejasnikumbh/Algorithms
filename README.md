@@ -92,6 +92,7 @@ DynamicProgramming
 - Coin Change
 - Longest Common Subsequence
 - Fibonacci Modified
+- Red John is Back
 
 
 Cryptography
