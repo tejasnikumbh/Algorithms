@@ -2,7 +2,7 @@ Algorithms
 ===========
  - Solutions to problems from the Website Hackerrank.com from *Algorithms Domian*. 
  - The Generic Code and Hacker Cup directories are seperate and contain other stuff
- - Rank on Website as of December 29, 2014. [ 231 of >1,35,000 hackers ] 
+ - Rank on Website as of December 29, 2014. [ 227 of >1,35,000 hackers ] 
 
 Warmup
 --------
@@ -93,6 +93,7 @@ DynamicProgramming
 - Longest Common Subsequence
 - Fibonacci Modified
 - Red John is Back
+- Equal
 - Candies
 
 
