@@ -96,7 +96,6 @@ DynamicProgramming
 - Equal
 - Candies
 
-
 Cryptography
 -------------
 - PRNG Sequence Guessing
