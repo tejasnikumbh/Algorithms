@@ -1,6 +1,5 @@
 import sys
 from operator import xor
-
 '''
     Function to get the numer. Nothing special in logic. Just regular Xor 
     repeating pattern. Take special care of the case where k > n in which
