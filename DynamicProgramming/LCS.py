@@ -83,3 +83,5 @@ if __name__ == "__main__":
     result = findLCS(A,B)
     resultStr = printArr(result)
     print resultStr
+
+'''END'''
