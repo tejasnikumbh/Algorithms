@@ -4,6 +4,7 @@ Algorithms
  - The Generic Code and Hacker Cup directories are seperate and contain other stuff
  - Rank on Website as of January 2, 2017. [ 227 of >1,35,000 hackers ] 
 
+
 Warmup
 --------
 - ACMICPC 
